@@ -1,3 +1,7 @@
-The system predicts if the given news is real or fake using Logistic Regression Model. 
+# Fake News Detection
 
-Test the system by uploading train.csv from the dataset : https://www.kaggle.com/c/fake-news/data?select=train.csv
+<br>
+
+A basic Logistic Regression Model that detects if the given news is real or fake. Employs natural language processing workflow.
+
+[Dataset](https://www.kaggle.com/c/fake-news/data)
